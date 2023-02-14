@@ -7,3 +7,6 @@ Caso cerrado es un programa de televisión transmitido desde 2001 hasta 2019🙌
 
 # Vinculos 
 (https://www.facebook.com/casocerradotelemundo/)
+
+# Imágenes 
+![alt text](https://ichef.bbci.co.uk/news/640/cpsprodpb/13167/production/_107738187_10_cc_1920x1080.jpg)
